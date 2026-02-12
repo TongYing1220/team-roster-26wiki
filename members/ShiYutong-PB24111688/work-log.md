@@ -55,6 +55,13 @@
   - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/index.html)
 - **备注**：无
 
+#### 2026-2-12
+- **完成任务**：完成初步React简历项目文件，包含组件化、暗黑模式、Props传参功能
+- **估计完成时间**：3小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/tree/main/resume-react)
+- **备注**：无
+
 ### 阶段三
 
 ---
