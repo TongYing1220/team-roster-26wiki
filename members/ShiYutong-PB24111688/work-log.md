@@ -62,6 +62,13 @@
   - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/tree/main/resume-react)
 - **备注**：无
 
+#### 2026-2-15
+- **完成任务**：使用 React Router 实现路由，实现组件通信，构建多页面应用
+- **估计完成时间**：3小时
+- **相关链接**：
+  - [个人链接](https://github.com/TongYing1220/Web-Team-Training-Program/tree/main/resume-react_ver1)
+- **备注**：无
+
 ### 阶段三
 
 ---
